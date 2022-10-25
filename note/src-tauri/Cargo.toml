@@ -1,6 +1,6 @@
 [package]
-name = "note"
-version = "0.0.0"
+name = "ocean-note"
+version = "0.0.1"
 description = "A Tauri App"
 authors = ["you"]
 license = ""

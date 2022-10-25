@@ -1,3 +1,11 @@
+<!--
+ * @Author: OCEAN.GZY
+ * @Date: 2022-10-25 22:00:04
+ * @LastEditors: OCEAN.GZY
+ * @LastEditTime: 2022-10-25 23:35:12
+ * @FilePath: /note/src/App.vue
+ * @Description: 注释信息
+-->
 <script setup lang="ts">
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
@@ -28,13 +36,9 @@ import Greet from "./components/Greet.vue";
       +
       <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
       +
-      <a href="https://github.com/tauri-apps/tauri-vscode" target="_blank"
-        >Tauri</a
-      >
+      <a href="https://github.com/tauri-apps/tauri-vscode" target="_blank">Tauri</a>
       +
-      <a href="https://github.com/rust-lang/rust-analyzer" target="_blank"
-        >rust-analyzer</a
-      >
+      <a href="https://github.com/rust-lang/rust-analyzer" target="_blank">rust-analyzer</a>
     </p>
 
     <Greet />

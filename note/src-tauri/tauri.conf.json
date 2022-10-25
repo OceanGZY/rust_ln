@@ -7,8 +7,8 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "note",
-    "version": "0.0.0"
+    "productName": "ocean note",
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "note",
+        "title": "ocean note",
         "width": 800
       }
     ]
